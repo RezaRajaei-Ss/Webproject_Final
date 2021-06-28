@@ -1,0 +1,197 @@
+* {
+    margin: auto;
+}
+
+.HeadInHeader {
+    position: relative;
+    font-size: 20px;
+    top: 0px;
+    left: 47px;
+    color: white;
+}
+
+img.HeaderIcon {
+    width: 100px;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+nav.Nav {
+    position: absolute;
+    right: 0%;
+    top: 2%;
+}
+
+li {
+    display: inline-block;
+}
+
+li.ToolsBar {
+    margin-right: 25px;
+    color: black;
+    text-decoration: none;
+}
+
+li>a {
+    text-decoration: none;
+    color: black;
+}
+
+.MiddleContent {
+    background-color: #0db364;
+    position: relative;
+    height: 700px;
+}
+
+.fore {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    color: white;
+}
+
+img.LxdeImage {
+    width: 400px;
+    position: relative;
+    left: 300px;
+    top: 150px;
+}
+
+.parent {
+    position: relative;
+    left: 150px;
+    top: 150px;
+    display: inline-block;
+}
+
+h1.MiddleH1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35pt;
+}
+
+.UnderText {
+    width: 300px;
+    color: white;
+}
+
+.btmtext {
+    display: inline-block;
+    width: 500px;
+    position: relative;
+    left: 90px;
+    top: 100px;
+    margin-left: 50px;
+    font-size: 25pt;
+}
+
+.footer {
+    background-color: #212121;
+    color: snow;
+    text-align: center;
+    top: auto;
+    height: 50px;
+}
+
+p.FooterParagraph {
+    position: relative;
+    top: 10px;
+    font-size: 14pt;
+}
+
+.KidsContent {
+    position: relative;
+    left: 80px;
+    top: 80px;
+}
+
+.KidsTable {
+    position: absolute;
+    left: 0px;
+}
+
+p.MobileTableText {
+    font-weight: bold;
+    left: 20px;
+}
+
+p.MobileNote {
+    font-size: 16pt;
+}
+
+.MobileContent {
+    width: 1200px;
+    position: relative;
+    left: 0px;
+}
+
+.MobileTableText {
+    font-weight: bold;
+    left: 100px;
+    font-size: 20px;
+    margin-left: 70px;
+}
+
+.DlBox {
+    position: relative;
+    left: 65px;
+}
+
+.GnomeContent {
+    width: 1200px;
+    top: 50px;
+    position: relative;
+    left: 0px;
+    font-size: 13pt;
+}
+
+h1.GnomeTitle {
+    width: 1200px;
+    position: relative;
+    top: 30px;
+    left: 0px;
+}
+
+.GeneralDocument {
+    background-color: #f7f7f7;
+    width: 1200px;
+    height: 140px;
+}
+
+.GeneralDocumentParagraph {
+    margin-left: 30px;
+    margin-top: 30;
+}
+
+
+.DownlaodTimeBoxes {
+    display: flex;
+    height: 400px;
+    background-color: #0db364;
+}
+
+#DownloadTimeCounter1 {
+    color: snow;
+    font-size: 60pt;
+}
+
+#DownloadTimeCounter2 {
+    color: snow;
+    font-size: 60pt;
+}
+
+#DownloadTimeCounter3 {
+    color: snow;
+    font-size: 60pt;
+}
+p.DownloadTimeParagraph{
+    display: inline-block;
+    color: snow;
+    font-size: 14pt;
+    margin-left: 239px;
+}
+
+
+
